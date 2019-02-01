@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    margin: 20px;
+    display: block;
+}
+
+header {
+    background-color: #61cd16;
+    padding: 5px;
+}
+
+article {
+    border: 1px solid #62be21;
+}
+
+canvas {
+    border: 1px solid #147bda;
+    cursor: crosshair;
+}
