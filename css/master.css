@@ -17,3 +17,9 @@ canvas {
     border: 1px solid #147bda;
     cursor: crosshair;
 }
+
+.refresh {
+    margin: 10px auto;
+    font-size: 1.2em;
+    padding: 3px;
+}
